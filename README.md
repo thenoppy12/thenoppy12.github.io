@@ -5,3 +5,6 @@
 just original **BussyBakks** website but it moved to here
 
 but this website hosted and managed by [**BussyBakks**](<https://github.com/BussyBakks>)
+
+# another web hosted in github:
+* [.well-known](<https://thenoppy12.github.io/.well-known>): [Source](<https://github.com/thenoppy12/.well-known>)
