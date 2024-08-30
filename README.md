@@ -1,7 +1,7 @@
 # **THENOPPY12 OFFICAL WEBSITE**
 ## **OTHER ARE ALL FAKE**
 
-* **IP: [thenoppy12.github.io](<https://thenoppy12.github.io>)**
+* **IP: [thenoppy12.github.io](<https://thenoppy12.github.io>) or [thenoppy12.is-a.dev](<https://thenoppy12.is-a.dev>)**
 
 **![skin-renderer.png](<https://github.com/thenoppy12/thenoppy12.github.io/blob/master2ndbussy/icon.png?raw=true>)**
 
